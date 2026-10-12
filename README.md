@@ -6,6 +6,14 @@
 
 Churn rises with ticket count: 37.1% at zero contacts vs 81.1% at 3+. Support is a measurable retention lever, not just a cost center.
 
+## Navigation
+
+- 📖 [Full case study on the portfolio site](https://nikitaboyarkin.github.io/en/projects/volta/support-churn/)
+- 🏦 [Parent project: volta-banking](https://github.com/NikitaBoyarkin/volta-banking)
+- 🧪 Related cases: [churn](https://github.com/NikitaBoyarkin/case-churn) · [nps](https://github.com/NikitaBoyarkin/case-nps)
+
+**On this page:** [Key results](#key-results) · [Situation](#situation) · [Task](#task) · [Actions](#actions) · [Result](#result) · [Recommendations](#recommendations) · [Charts](#charts) · [Dataset](#dataset) · [Quick start](#quick-start)
+
 ## Key results
 
 - Churn 37.1% (0 tickets) → 81.1% (3+)
